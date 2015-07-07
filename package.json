@@ -1,0 +1,12 @@
+{
+  "name": "nativescript-jsx",
+  "version": "0.0.1",
+  "description": "JSX support for NativeScript (WIP)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur Stolyar <nekr.fabula@gmail.com>",
+  "license": "MIT",
+  "jsx-ir/nativescript-jsx"
+}
